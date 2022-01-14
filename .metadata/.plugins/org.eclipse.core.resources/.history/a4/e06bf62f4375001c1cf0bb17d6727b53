@@ -1,0 +1,25 @@
+
+public class Product 
+{
+
+	void addProduct()
+	{
+		System.out.println("This is addProduct");
+	}
+	void addCategory()
+	{
+		System.out.println("This is addCategory");
+	}
+	
+	
+}
+
+class Demo
+{
+	public static void main(String[] args) 
+	{
+		
+
+	}
+
+}
