@@ -26,6 +26,10 @@ public class Sample
 		catch(NullPointerException y) {
 			System.out.println("Please check the String.."+y);
 		}
+		finally
+		{
+			System.out.println("this is finally block");
+		}
 	}
 	
 	
